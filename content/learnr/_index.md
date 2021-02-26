@@ -1,5 +1,5 @@
 ---
-title: Learn R
+title: Learnr
 type: book  # Do not modify.
 toc: false
 ---
