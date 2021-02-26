@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Lear R
 type: book  # Do not modify.
 toc: false
 ---
