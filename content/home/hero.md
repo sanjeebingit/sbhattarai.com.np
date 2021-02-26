@@ -5,7 +5,7 @@ weight: 10
 title: ""
 hero_media: ""
 ---
-subtitle: of [_Sanjeeb Bhattarai_](https://sanjeeb.name.np) ✨
+Documentation site of [**SBhattarai**](https://sanjeeb.name.np) ✨
 feature:
   - icon: book-open
     icon_pack: fas
