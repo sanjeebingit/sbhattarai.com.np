@@ -2,8 +2,8 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: Documentation
+subtitle: of [_Sanjeeb Bhttarai_](https://sanjeeb.name.np) ✨
 feature:
   - icon: book-open
     icon_pack: fas
