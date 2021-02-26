@@ -1,7 +1,7 @@
 ---
 title: Learn R
 type: book  # Do not modify.
-toc: false
+toc: true
 ---
 
 Welcome to the _book_ template!
