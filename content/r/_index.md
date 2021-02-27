@@ -4,4 +4,4 @@ type: book  # Do not modify.
 toc: false
 ---
 
-Welcome to the _book_ template!
+Welcome to the my colletion of resources to learn R! I intend to collect all relevant materials helpful in learning R, starting from the very basics. After covering the basics, my intention in to cover topics relate to the field of studies that I am intersted in, like forest biometrics. Use the menus and sub-menus to access the resources and most importantly, give your valuable feedback to improve the contents on these pages. Happy learning!
