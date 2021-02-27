@@ -7,7 +7,7 @@ icon: r-project
 icon_pack: fab
 
 # Page metadata.
-title: Indroduction
+title: Indroduction to R
 date: "2018-09-09T00:00:00Z"
 type: book  # Do not modify.
 ---
