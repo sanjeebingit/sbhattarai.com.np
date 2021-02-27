@@ -7,3 +7,8 @@
   name = "Learn R"
   url = "learnr/"
   weight = 10
+
+[[main]]
+  name = "R"
+  url = "r/"
+  weight = 10
