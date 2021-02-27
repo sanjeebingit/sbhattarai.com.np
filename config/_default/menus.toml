@@ -4,11 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Learn R"
-  url = "learnr/"
-  weight = 10
-
-[[main]]
   name = "R"
   url = "r/"
-  weight = 20
+  weight = 10
