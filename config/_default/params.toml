@@ -154,7 +154,7 @@ plugins_js  = []
   [comments.commento]
     # If self-hosting Commento, enter its URL here (e.g. "https://commento.?.com"), otherwise leave empty.
     url = ""
-
+commentable = {page = false, post = false, book = true, project = false, publication = false, talk = false}
 ############################
 ## Search
 ############################
