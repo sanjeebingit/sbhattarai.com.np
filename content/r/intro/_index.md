@@ -22,7 +22,7 @@ This feature can be used for publishing content such as:
 * It is open-source and free
 * It works on different platforms (Windows, Mac, Linux)
 * It has a large community support
-* It is easy to draw graphs in R, like pie charts, histograms, box plot, scatter plot, etc++
+* It is easy to draw graphs in R, like pie charts, histograms, box plot, scatter plot, etc.
 * It provides many statistical techniques (such as statistical tests, classification, clustering and data reduction)
 * It is a great resource for data analysis, data visualization, data science and machine learning
 * It has many packages (libraries of functions) that can be used to solve different and very specific problems
