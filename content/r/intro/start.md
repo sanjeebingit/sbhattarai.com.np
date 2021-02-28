@@ -15,5 +15,5 @@ When you have downloaded and installed R, you can run R on your computer as any 
 ## Version
 R community is very dynamic, and therefore it is quite common that several versions are launched in the same year. Updating the R version is as easy as download the new version in the URL provided above and install it. The installation of the new versions is not overwritten over the old version, that is why it is possible to use in your computer as many R versions as you have installed.
 
-## R-Gui
-For the case of Windows, the software managing the R console is R-Gui (or Graphical User Interface), which interface is shown in Figure below. R-Gui has all functionalities of R, it allows to type and execute codes (commonly know as R-scripts).
+## R-GUI
+For the case of Windows, the software managing the R console is R-GUI (or Graphical User Interface), which interface is shown in Figure below. R-Gui has all functionalities of R, it allows to type and execute codes (commonly know as R-scripts).
