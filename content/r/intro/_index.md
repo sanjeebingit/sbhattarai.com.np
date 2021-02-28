@@ -8,7 +8,7 @@ icon_pack: fab
 
 # Page metadata.
 title: Indroduction to R
-date: "2018-09-09T00:00:00Z"
+date: "2021-02-28T00:00:00Z"
 type: book  # Do not modify.
 ---
 
@@ -26,3 +26,4 @@ This feature can be used for publishing content such as:
 * It provides many statistical techniques (such as statistical tests, classification, clustering and data reduction)
 * It is a great resource for data analysis, data visualization, data science and machine learning
 * It has many packages (libraries of functions) that can be used to solve different and very specific problems
+* R is usually operated trough R-scripts, which is the code in R describing and executing the calculus to be done. This code is a text file which can be read by all text editing software.
