@@ -12,6 +12,8 @@ To install R, visit [The Comprehensive R Archive Network (or CRAN)](https://clou
 
 {{< figure library="true" src="Install-R.jpg" title="Downloading R on Windows Operating System" >}}
 
+{{< figure src="Install-R.jpg" title="Downloading R on Windows Operating System" numbered="true" >}}
+
 When you have downloaded and installed R, you can run R on your computer as any other computer sofware.
 
 ## Version
