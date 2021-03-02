@@ -1,6 +1,6 @@
 ---
-title: Installation
-linktitle: Install
+title: R Installation
+linktitle: Install R
 type: book
 date: "2021-02-28T00:00:00+01:00"
 
