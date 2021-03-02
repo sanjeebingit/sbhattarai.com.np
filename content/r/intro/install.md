@@ -10,7 +10,7 @@ weight: 1
 ## Download
 To install R, visit [The Comprehensive R Archive Network (or CRAN)](https://cloud.r-project.org) and download the latest version of R for your Windows or Mac or Linux.
 
-[Figure](#figure-three-steps-in-downloading-r-on-a-windows-operating-system) below shows three steps while downloading R on a Windows Operating System.
+[Figure 1](#figure-three-steps-in-downloading-r-on-a-windows-operating-system) below shows three steps while downloading R on a Windows Operating System.
 
 {{< figure library="true" src="Install-R.jpg" title="Three Steps in Downloading R on a Windows Operating System" numbered="true" >}}
 
