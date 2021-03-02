@@ -1,21 +1,22 @@
 ---
-title: R Studio
-linktitle: Install R Studio
+title: Install R Studio
+linktitle: R Studio
 type: book
 date: "2021-03-02T00:00:00+01:00"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 ## Download
-R Studio can be downloaded freely from [R Stiod website](https://rstudio.com/products/rstudio/download/) for Windows or Mac or other Opertating Systems.
+R Studio can be downloaded freely from [R Studio website](https://rstudio.com/products/rstudio/download/) for Windows or Mac or other Opertating Systems.
+
 In the R Studio installation process, the architecture of your processor (32 or 64 bit) must be considered.
 
 When you have downloaded and installed R Studio, you can run it on your computer as any other computer sofware.
 
 ## RStudio
 RStudio is an open source IDE. It recognizes and run under the last version of R installed on your computer. The interface of the Windows version of RStudio is shown in 
-[Figure 2](#figure-three-steps-in-downloading-r-on-a-windows-operating-system). This interface is similar to other statistical packages (i.e. SPSS), with four differentiated regions:
+[Figure 1](#figure-three-steps-in-downloading-r-on-a-windows-operating-system). This interface is similar to other statistical packages (i.e. SPSS), with four differentiated regions:
 {{< figure library="true" src="R-Studio.jpg" title="Interface of RStudio for Windows" numbered="true" >}}
 - the R script,
 - the R console,
