@@ -5,5 +5,5 @@
 
 [[main]]
   name = "Learn R"
-  url = "learn-r/"
+  url = "r/"
   weight = 10
