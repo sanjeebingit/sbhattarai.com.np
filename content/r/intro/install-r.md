@@ -24,4 +24,4 @@ For the case of Windows, the software managing the R console is R-GUI (or Graphi
 
 {{< figure library="true" src="R-Console.jpg" title="R Console" numbered="true" >}}
 
-RStudio is a popular IDE for R. For the purpose of excercises, we will use R Studio. You will learn about R Studio in the next section, including installation process.
+RStudio is a popular IDE for R. For the purpose of excercises, we will use R Studio. We will learn more about R Studio in the next section, including installation process.
