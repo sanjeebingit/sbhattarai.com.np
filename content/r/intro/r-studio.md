@@ -19,7 +19,7 @@ When you have downloaded and installed R Studio, you can run it on your computer
 ## RStudio
 RStudio is an open source IDE. It recognizes and run under the last version of R installed on your computer. The interface of the Windows version of RStudio is shown in 
 [Figure 1](#figure-three-steps-in-downloading-r-on-a-windows-operating-system). This interface is similar to other statistical packages (i.e. SPSS), with four differentiated regions:
-{{< figure library="true" src="R-Studio.jpg" title="Interface of RStudio for Windows" numbered="true" >}}
+{{< figure library="true" src="R-Studio-Console.jpg" title="Interface of RStudio for Windows" numbered="true" >}}
 - the R script,
 - the R console,
 - the R working environment, and
