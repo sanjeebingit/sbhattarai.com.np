@@ -10,7 +10,9 @@ weight: 2
 ## Download
 R Studio can be downloaded freely from [R Studio website](https://rstudio.com/products/rstudio/download/) for Windows or Mac or other Opertating Systems.
 
-In the R Studio installation process, the architecture of your processor (32 or 64 bit) must be considered.
+{{% callout warning %}}
+In the R Studio download process, the architecture of your processor (32 or 64 bit) must be considered.
+{{% /callout %}}
 
 When you have downloaded and installed R Studio, you can run it on your computer as any other computer sofware.
 
