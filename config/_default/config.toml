@@ -47,6 +47,8 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
   home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
   section = ["HTML", "RSS"]
 
+disqusShortname: sbhattarai
+
 [Params.social.share]
   facebook = true
   linkedin = true
