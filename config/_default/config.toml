@@ -50,11 +50,11 @@ disableAliases = true  # Disable aliases when `redirects` is added to the `outpu
 disqusShortname= "sbhattarai"
 
 [Params.social.share]
-  facebook = true
-  linkedin = true
-  twitter = true
-  whatsapp = true
-  email = true
+  facebook = false
+  linkedin = false
+  twitter = false
+  whatsapp = false
+  email = false
 
 # Configure the Markdown renderer.
 [markup]
