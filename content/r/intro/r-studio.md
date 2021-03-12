@@ -31,11 +31,11 @@ The R script window is where the R code is compiled. The code in the script can 
 - line by line (by selecting only the line or by placing the cursor in the correspondent line of the script), or
 - a given part of the code inside a line (by selecting such part of the code).
 
-The selected code can be ran by pressing "Ctrl+R" or by doing click in the "Run" button. The result of running the script will be shown either in the R console or in the graphical output window. If the script includes creation of any object, it will be listed in the R working environment window.
+The selected code can be ran by pressing <mark>Ctrl+R</mark> or by doing click in the <mark>Run</mark> button. The result of running the script will be shown either in the R console or in the graphical output window. If the script includes creation of any object, it will be listed in the R working environment window.
 
 ## R Console
                                                          
-The R console has the same functionalities than the R-GUI. It has only one editing line and the results of the calculation are displayed in the same window. The error messages and other information related with the script running process are also shown in the R console. The code writen in the R console can be run by pressing "Enter" or "Ctrl+R", and it will not suppose any change in the R script. That is why it is very useful for testing code before implementing it to the script.
+The R console has the same functionalities than the R-GUI. It has only one editing line and the results of the calculation are displayed in the same window. The error messages and other information related with the script running process are also shown in the R console. The code writen in the R console can be run by pressing <mark>Enter</mark> or <mark>Ctrl+R</mark>, and it will not suppose any change in the R script. That is why it is very useful for testing code before implementing it to the script.
 
 ## R Environment
 The R environment window shows all the objects that was created in R and that are active to be used. It provides a quick overview of not only the number and name of the objects in the working environment, but also about the information stored and the type of the object.
