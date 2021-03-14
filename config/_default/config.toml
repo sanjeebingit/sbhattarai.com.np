@@ -48,7 +48,6 @@ disqusShortname = "sbhattarai"
   home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
   section = ["HTML", "RSS"]
 
-disqusShortname= "sbhattarai"
 
 [Params.social.share]
   facebook = false
