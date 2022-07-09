@@ -71,10 +71,10 @@ features:
     content_dir: content
     branch: main
   comment:
-    provider: ''
+    provider: 'disqus'
     disqus:
-      shortname: ''
-      show_count: true
+      shortname: 'sbhattarai'
+      show_count: false
     commento:
       url: ''
   search:
