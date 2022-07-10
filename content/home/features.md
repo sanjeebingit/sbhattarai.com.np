@@ -1,7 +1,7 @@
 ---
 widget: featurette
 headless: true
-weight: 10
+weight: 0
 title: Documentation
 subtitle: Compiled and curated by [_Sanjeeb Bhattarai_](sanjeeb.name.np) ✨
 feature:
