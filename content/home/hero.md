@@ -1,4 +1,3 @@
 ---
 widget: blank
-headless: false
 ---
