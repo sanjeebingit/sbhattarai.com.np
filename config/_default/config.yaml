@@ -2,7 +2,8 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-title: 'Sanjeeb Bhattarai's Documentation' # Website name
+
+title: 'Documentation of Sanjeeb Bhattarai' # Website name
 baseURL: 'https://sbhattarai.com.np/' # Website URL
 
 ############################
