@@ -14,8 +14,8 @@ cascade:
   # Docs folder options
   - _target:
       path: /docs/**
-    editable: true
-    show_breadcrumb: true
+    editable: false
+    show_breadcrumb: false
 
 ############################
 ## LANGUAGE
@@ -24,7 +24,7 @@ cascade:
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: true
+removePathAccents: false
 
 ############################
 ## MODULES
@@ -67,8 +67,8 @@ markup:
   _merge: deep
 related:
   threshold: 80
-  includeNewer: true
-  toLower: true
+  includeNewer: false
+  toLower: false
   indices:
     - name: tags
       weight: 100
