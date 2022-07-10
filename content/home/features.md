@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: featurette
 headless: true
 weight: 20
 title: Documentation
