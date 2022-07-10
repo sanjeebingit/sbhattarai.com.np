@@ -1,6 +1,6 @@
 ---
 # Homepage
-type: 'widget_page'
+type: ''
 
 # Homepage is headless, other widget pages are not.
 headless: true
