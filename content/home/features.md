@@ -8,7 +8,7 @@ feature:
   - icon: book-open
     icon_pack: fas
     name: Documentation
-    description: For users
+    description: For learners
   - icon: database
     icon_pack: fas
     name: Knowledge Base
