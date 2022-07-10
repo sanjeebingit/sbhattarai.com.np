@@ -1,14 +1,12 @@
 ---
-widget: hero
+widget: blank
 headless: false
 weight: 10
-title: Documentation
-hero_media: book.svg
+title: 
+hero_media: 
 design:
   background:
     gradient_start: '#4bb4e3'
     gradient_end: '#2b94c3'
     text_color_light: true
 ---
-
-Compiled and curated by [Sanjeeb Bhattarai](https://www.sanjeeb.name.np/).
