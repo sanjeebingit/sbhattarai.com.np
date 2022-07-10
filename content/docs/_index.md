@@ -2,7 +2,7 @@
 title: Docs
 type: book # Do not modify.
 toc: false
-commentable: true
+commentable: false
 ---
 
 Welcome to the _R Learning Resources_!
