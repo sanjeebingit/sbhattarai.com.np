@@ -1,7 +1,7 @@
 ---
 widget: blank
 headless: false
-weight: 10
+weight:
 title: 
 hero_media: 
 design:
