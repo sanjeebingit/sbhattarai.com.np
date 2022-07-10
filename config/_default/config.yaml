@@ -14,8 +14,8 @@ cascade:
   # Docs folder options
   - _target:
       path: /docs/**
-    editable: false
-    show_breadcrumb: false
+    editable: true
+    show_breadcrumb: true
 
 ############################
 ## LANGUAGE
@@ -24,7 +24,7 @@ cascade:
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
-removePathAccents: false
+removePathAccents: true
 
 ############################
 ## MODULES
@@ -40,7 +40,7 @@ module:
 ############################
 
 enableGitInfo: false
-summaryLength: 10
+summaryLength: 30
 paginate: 10
 enableEmoji: true
 enableRobotsTXT: true
@@ -50,7 +50,7 @@ permalinks:
   authors: '/author/:slug/'
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
-disableAliases: false
+disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
@@ -67,8 +67,8 @@ markup:
   _merge: deep
 related:
   threshold: 80
-  includeNewer: false
-  toLower: false
+  includeNewer: true
+  toLower: true
   indices:
     - name: tags
       weight: 100
