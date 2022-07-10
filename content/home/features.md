@@ -3,7 +3,7 @@ widget: featurette
 headless: true
 weight: 10
 title: Documentation
-subtitle: Compiled and curated by [_Sanjeeb Bhattarai_](sanjeeb.name.np) ✨
+subtitle: Compiled and curated by [_Sanjeeb Bhattarai_](https://www.sanjeeb.name.np/) ✨
 feature:
   - icon: book-open
     icon_pack: fas
