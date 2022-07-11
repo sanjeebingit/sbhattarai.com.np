@@ -1,13 +1,13 @@
 ---
 # Title, summary, and page position.
-linktitle: Get started
+linktitle: Installations
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
 icon: circle-1
 icon_pack: fas
 
 # Page metadata.
-title: Get started
+title: Installations
 date: '2018-09-09T00:00:00Z'
 type: book # Do not modify.
 ---
