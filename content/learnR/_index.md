@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Learn R
 type: book # Do not modify.
 toc: false
 commentable: true
