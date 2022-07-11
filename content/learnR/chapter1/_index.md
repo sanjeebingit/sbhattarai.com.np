@@ -3,7 +3,7 @@
 linktitle: Get started
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
-icon: 1
+icon: circle-1
 icon_pack: fas
 
 # Page metadata.
