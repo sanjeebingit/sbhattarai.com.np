@@ -3,7 +3,7 @@
 linktitle: Install
 summary: Learn how to use Wowchemy's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 1
-icon: <i class="fa-regular fa-circle-0"></i>
+icon: fa-circle-0
 icon_pack: fas
 
 # Page metadata.
