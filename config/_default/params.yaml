@@ -73,7 +73,7 @@ features:
   comment:
     provider: 'disqus'
     disqus:
-      shortname: 'sbhattari'
+      shortname: 'sbhattarai'
       show_count: false
     commento:
       url: ''
