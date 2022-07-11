@@ -3,7 +3,7 @@
 linktitle: Getting started
 summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
 weight: 2
-icon: circle-2
+icon: book-reader
 icon_pack: fas
 
 # Page metadata.
